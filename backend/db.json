@@ -1,0 +1,39 @@
+{
+  "filmes": [
+    {
+      "id": "1001",
+      "favortio": false,
+      "nome": "O Iluminado",
+      "genero": "Terror",
+      "data": "1980-05-23T00:00:00Z"
+    },
+    {
+      "id": "1002",
+      "favortio": false,
+      "nome": "Forrest Gump: O Contador de Histórias",
+      "genero": "Drama",
+      "data": "1994-07-06T00:00:00Z"
+    },
+    {
+      "id": "1003",
+      "favortio": false,
+      "nome": "Matrix",
+      "genero": "Ficção Científica",
+      "data": "1999-03-31T00:00:00Z"
+    },
+    {
+      "id": "1004",
+      "favortio": false,
+      "nome": "Batman: O Cavaleiro das Trevas",
+      "genero": "Ação",
+      "data": "2008-07-18T00:00:00Z"
+    },
+    {
+      "id": "1005",
+      "favortio": false,
+      "nome": "Alien: Romulus",
+      "genero": "Ficção Científica",
+      "data": "2024-08-16T00:00:00Z"
+    }
+  ]
+}
