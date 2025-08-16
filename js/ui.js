@@ -1,4 +1,8 @@
 import api from "./api.js";
+// TO DO:
+// Escrever a validação do campo nome dos filmes para ter certeza que o formulário não é frágil
+// Escrever a validação do campo nome dos filmes para ter certeza que o formulário não é frágil
+// Escrever a validação do campo que remove espaços vazios na lista
 
 const ui = {
   async preencherFormulario(filmeId) {
